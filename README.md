@@ -64,7 +64,7 @@ I break things **ethically** on live production systems and document how I did i
 | **Languages** | ![Python](https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=python&logoColor=black) ![C++](https://img.shields.io/badge/C++-FF0000?style=flat-square&logo=c%2B%2B&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-FF0000?style=flat-square&logo=gnu-bash&logoColor=black) |
 | **Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FF0000) ![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=FF0000) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=FF0000) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FF0000) |
-| **Offensive Security** | `Burp Suite` · `Nmap` · `Nessus` · `OSINT` · `gitleaks` · `ESP32` |
+| **Offensive Security** | `Burp Suite` · `Nmap` · `IrisIp` · `OSINT` · `Netspider` · `esp32` |
 
 </div>
 
