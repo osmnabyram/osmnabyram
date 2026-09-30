@@ -1,21 +1,21 @@
 <div align="center">
 
-```text
+<pre>
                                    .x+=:.      .x+=:.                    ..
                                   z`    ^%    z`    ^%             x .d88"
-     ...     ..                      .   <k      .   <k             5888R
+     ...     ..                      .   &lt;k      .   &lt;k             5888R
   :~""888h.:^"888:        .u       .@8Ned8"    .@8Ned8"      .u     '888R
- 8X   `8888X  8888>    ud8888.   .@^%8888"   .@^%8888"    ud8888.    888R
-X888n. 8888X  ?888>  :888'8888. x88:  `)8b. x88:  `)8b. :888'8888.   888R
+ 8X   `8888X  8888&gt;    ud8888.   .@^%8888"   .@^%8888"    ud8888.    888R
+X888n. 8888X  ?888&gt;  :888'8888. x88:  `)8b. x88:  `)8b. :888'8888.   888R
 '88888 8888X   ?**h. d888 '88%" 8888N=*8888 8888N=*8888 d888 '88%"   888R
   `*88 8888~ x88x.   8888.+"     %8"    R88  %8"    R88 8888.+"      888R
- ..<"  88*`  88888X  8888L        @8Wou 9%    @8Wou 9%  8888L        888R
+ ..&lt;"  88*`  88888X  8888L        @8Wou 9%    @8Wou 9%  8888L        888R
     ..XC.    `*8888k '8888c. .+ .888888P`   .888888P`   '8888c. .+  .888B .
-  :888888H.    `%88>  "88888%   `   ^"F     `   ^"F      "88888%    ^*888%
- <  `"888888:    X"     "YP'                               "YP'       "%
+  :888888H.    `%88&gt;  "88888%   `   ^"F     `   ^"F      "88888%    ^*888%
+ &lt;  `"888888:    X"     "YP'                               "YP'       "%
        %888888x.-`
          ""**""
-```
+</pre>
 ### Osman Bayram
 
 **`Offensive Security Researcher | Penetration Tester | Red Team Enthusiast`**
@@ -116,6 +116,6 @@ Connection to osmanbayram2882@gmail.com port 25 [tcp/smtp] succeeded!
 
 <div align="center">
 
-### `Breaking your projects (ethically).`
+### `Breaking someones projects (ethically).`
 
 </div>
