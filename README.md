@@ -1,6 +1,7 @@
 <div align="center">
 
 <pre>
+
                                    .x+=:.      .x+=:.                    .. 
                                   z`    ^%    z`    ^%             x .d88"  
      ...     ..                      .   <k      .   <k             5888R   
@@ -52,7 +53,6 @@ I break things **ethically** on live production systems and document how I did i
 
 - `20+` professional penetration test reports
 - `18` vulnerabilities discovered in the **Pandazen thesis project**
-  - `4 Critical`
 - ESP32-S3 offensive firmware development
   - Wi-Fi attack vectors
   - BLE attack vectors
@@ -95,8 +95,6 @@ I break things **ethically** on live production systems and document how I did i
 ```bash
 [2026-04] RaConf'26 — Sakarya University Cybersecurity Summit
           └─ Web Security & Bug Bounty Methodology
-             (Suleyman Ibrahim Celikarslan)
-
 [2026-07] Cisco Networking Academy — Ethical Hacker
 [2026-07] Cisco Networking Academy — Networking Basics
 [2026-03] Cisco Networking Academy — Introduction to Cybersecurity
@@ -121,6 +119,6 @@ Connection to osmanbayram2882@gmail.com port 25 [tcp/smtp] succeeded!
 
 <div align="center">
 
-`Breaking your projects (ethically).`
+### `Breaking your projects (ethically).`
 
 </div>
