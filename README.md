@@ -48,7 +48,6 @@ Active member of **KeenSafe Core Team** — a UK-based offensive security unit.
 I break things **ethically** on live production systems and document how I did it.
 
 - `20+` professional penetration test reports
-- `18` vulnerabilities discovered in the **Pandazen thesis project**
 - ESP32-S3 offensive firmware development
   - Wi-Fi attack vectors
   - BLE attack vectors
