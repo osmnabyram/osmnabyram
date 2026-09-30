@@ -114,6 +114,16 @@ Connection to osmanbayram2882@gmail.com port 25 [tcp/smtp] succeeded!
 
 ---
 
+## `$ git log --contribution-graph`
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00FF00/osmnabyram" alt="osmnabyram GitHub Contribution Chart" width="100%">
+
+</div>
+
+---
+
 <div align="center">
 
 ### `Always learning. Always breaking (ethically).`
