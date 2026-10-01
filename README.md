@@ -15,7 +15,6 @@ X888n. 8888X  ?888&gt;  :888'8888. x88:  `)8b. x88:  `)8b. :888'8888.   888R
  &lt;  `"888888:    X"     "YP'                               "YP'       "%a
 
 </pre>
-### Osman Bayram
 
 **`Offensive Security Researcher | Penetration Tester | Red Team Enthusiast`**
 
